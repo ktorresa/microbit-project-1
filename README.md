@@ -12,4 +12,4 @@ The weapons were...
 5. Lizard
 ___
 
-The microbit was programmed to pick a random option if it were to be shaken through micropython. 
+The microbit was programmed through micropython to pick a random option if it were to be shaken. 
